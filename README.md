@@ -1,5 +1,5 @@
 # OctreeImplementation
-Octree Implementation in huge 3D static space, to decreese the time bwteen frames in a small engine
+Octree Implementation in huge 3D static space, to decrese the time bewteen frames in a small engine in comparison with a object collision detection done by check every player with every object.
 
 My solution for this test about a huge 3D static space, taking in count that the most important optimization that must be done is decrease the time between frames, is an Octree implementation.
 
