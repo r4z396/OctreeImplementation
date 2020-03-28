@@ -9,7 +9,6 @@ I lose time in the initialization of the world and memory use, in exchange of a 
 CPU: i7-6700HQ @ 2.60GHz
 Platform: x64
 
-			Initialization Time		Average time between frames 
-Vanilla				3500.86ms		1370.25ms
+                              Initialization Time 	Average time between frames
+Vanilla				3500.86ms               1370.25ms
 With Octree implementation	13712.6ms		0.0386ms
-
